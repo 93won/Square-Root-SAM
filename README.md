@@ -11,7 +11,7 @@
   (1) Sparse solver   
   (2) Variable reordering   
 
-Reference       
+- Reference       
 
   [1] Dellaert, Frank & Kaess, Michael. (2006). Square Root SAM: Simultaneous Localization and Mapping via Square Root Information   Smoothing. I. J. Robotic Res.. 25. 1181-1203.   
    
