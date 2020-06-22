@@ -2,7 +2,7 @@
 
 Simple python implementation of Square Root SAM.   
 
-- To Do -      
+- To Do
 (1) Sparse solver   
 (2) Variable reordering   
 
