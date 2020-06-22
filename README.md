@@ -1,11 +1,7 @@
-# Python implementation of Square Root SAM
-
-## Simple python implementation of Square Root SAM.   
+# Simple Python implementation of Square Root SAM
 
 
-![Before_optimization](https://user-images.githubusercontent.com/38591115/85345701-28737600-b52e-11ea-9f8b-919ca42c9589.png)   
-
-![After_optimization](https://user-images.githubusercontent.com/38591115/85345714-31644780-b52e-11ea-961b-eec4baf18cbd.png)
+![Before_optimization](https://user-images.githubusercontent.com/38591115/85345701-28737600-b52e-11ea-9f8b-919ca42c9589.png)![After_optimization](https://user-images.githubusercontent.com/38591115/85345714-31644780-b52e-11ea-961b-eec4baf18cbd.png)
 
 
 
