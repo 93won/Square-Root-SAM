@@ -1,4 +1,4 @@
-# Python implementation of Sqaure Root Smoothing and Mapping (Square Root SAM)
+# Python implementation of Sqaure Root SAM
 
 Reference       
 
