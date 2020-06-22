@@ -2,21 +2,21 @@
 
 ![result](https://user-images.githubusercontent.com/38591115/85345933-d5e68980-b52e-11ea-9ac1-1339a2d30255.png)
 
-- It is implemented by referring to the following.   
-https://github.com/tmadl/python-LS-SLAM   
-http://www.dis.uniroma1.it/~grisetti/teaching/lectures-ls-slam-master/web/lectures/practicals/ls-slam.tgz
+### It is implemented by referring to the following.   
+- https://github.com/tmadl/python-LS-SLAM   
+- http://www.dis.uniroma1.it/~grisetti/teaching/lectures-ls-slam-master/web/lectures/practicals/ls-slam.tgz
 
 
-- Dataset   
-  MIT Killian Court(2D)   
-  http://ais.informatik.uni-freiburg.de/slamevaluation/datasets.php
+### Dataset   
+  - MIT Killian Court(2D)   
+  - http://ais.informatik.uni-freiburg.de/slamevaluation/datasets.php
 
 
-- To Do   
-  (1) Sparse solver   
-  (2) Variable reordering   
+### To Do   
+  - Sparse solver   
+  - Variable reordering   
 
-- Reference       
+### Reference       
 
   [1] Dellaert, Frank & Kaess, Michael. (2006). Square Root SAM: Simultaneous Localization and Mapping via Square Root Information   Smoothing. I. J. Robotic Res.. 25. 1181-1203.   
    
