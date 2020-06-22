@@ -1,4 +1,4 @@
-# Python implementation of Sqaure Root SAM
+# Python implementation of Square Root SAM
 
 ## Simple python implementation of Square Root SAM.   
 
