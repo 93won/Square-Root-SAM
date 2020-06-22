@@ -3,8 +3,8 @@ import time
 from utils import *
 
 
-nfile = 'data/killian-v.dat'
-efile = 'data/killian-e.dat'
+nfile = 'killian-v.dat'
+efile = 'killian-e.dat'
 
 nodes, edges = readData(nfile, efile)
 
