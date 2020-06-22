@@ -2,6 +2,11 @@
 
 Simple python implementation of Square Root SAM.   
 
+- Dataset   
+  MIT Killian Court(2D)   
+  http://ais.informatik.uni-freiburg.de/slamevaluation/datasets.php
+
+
 - To Do   
 (1) Sparse solver   
 (2) Variable reordering   
