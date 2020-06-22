@@ -2,9 +2,6 @@
 
 ## Simple python implementation of Square Root SAM.   
 
-![Before optimization](https://user-images.githubusercontent.com/38591115/85277284-1b1ea300-b4be-11ea-873e-cec62dee8051.png)
-
-
 - Dataset   
   MIT Killian Court(2D)   
   http://ais.informatik.uni-freiburg.de/slamevaluation/datasets.php
