@@ -1,4 +1,4 @@
-# Simple Python implementation of Square Root SAM
+# Simple Python implementation of Square Root SAM for study
 
 ![result](https://user-images.githubusercontent.com/38591115/85345933-d5e68980-b52e-11ea-9ac1-1339a2d30255.png)
 
